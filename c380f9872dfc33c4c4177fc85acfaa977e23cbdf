@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAGH///zc\u003d",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2011-05-30T13:52:03Z",
+      "side": 1,
+      "message": "low values are not too high?",
+      "revId": "c380f9872dfc33c4c4177fc85acfaa977e23cbdf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
