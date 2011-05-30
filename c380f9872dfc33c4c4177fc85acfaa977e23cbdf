@@ -16,6 +16,24 @@
       "revId": "c380f9872dfc33c4c4177fc85acfaa977e23cbdf",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAGH///xE\u003d",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 805
+      },
+      "writtenOn": "2011-05-30T23:00:31Z",
+      "side": 1,
+      "message": "These values are taken from the supersonic config.  I don\u0027t have a bravo to test the levels, so let me know what they should be for bravo and I will change them.",
+      "parentUuid": "AAAAGH///zc\u003d",
+      "revId": "c380f9872dfc33c4c4177fc85acfaa977e23cbdf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
